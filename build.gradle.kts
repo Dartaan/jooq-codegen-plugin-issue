@@ -13,7 +13,7 @@ allprojects {
 
     repositories {
         mavenCentral()
-        // TODO
+        // TODO set repository with JOOQ PRO
         maven {
             url = uri("")
             credentials {
